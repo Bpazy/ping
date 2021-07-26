@@ -1,4 +1,6 @@
 # ping
+![Build](https://github.com/Bpazy/ping/workflows/Build/badge.svg)
+[![Docker Pulls](https://img.shields.io/docker/pulls/bpazy/ping)](https://hub.docker.com/r/bpazy/ping)
 
 If you type the following code:
 ```shell
